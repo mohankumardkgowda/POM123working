@@ -8,9 +8,7 @@ import Object.footer_object;
 
 public class footer extends  url{
 
-	
-	
-    footer_object objectrepo;
+ footer_object objectrepo;
 	
 	@Test(enabled=true)
 	public void Verify_Tab() throws InterruptedException {

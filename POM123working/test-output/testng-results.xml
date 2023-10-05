@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-04T16:01:21 IST" name="Default suite" finished-at="2023-10-04T16:02:34 IST" duration-ms="73217">
+  <suite started-at="2023-10-05T14:12:09 IST" name="Default suite" finished-at="2023-10-05T14:12:25 IST" duration-ms="15767">
     <groups>
     </groups>
-    <test started-at="2023-10-04T16:01:21 IST" name="Default test" finished-at="2023-10-04T16:02:34 IST" duration-ms="73217">
-      <class name="Test.footer">
-        <test-method is-config="true" signature="beforetezt()[pri:0, instance:Test.footer@6150c3ec]" started-at="2023-10-04T16:01:21 IST" name="beforetezt" finished-at="2023-10-04T16:02:22 IST" duration-ms="60656" status="PASS">
+    <test started-at="2023-10-05T14:12:09 IST" name="Default test" finished-at="2023-10-05T14:12:25 IST" duration-ms="15767">
+      <class name="Test.POMTab">
+        <test-method is-config="true" signature="beforetezt()[pri:0, instance:Test.POMTab@6150c3ec]" started-at="2023-10-05T14:12:09 IST" name="beforetezt" finished-at="2023-10-05T14:12:25 IST" duration-ms="15654" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetezt -->
-        <test-method signature="Verify_Tab()[pri:0, instance:Test.footer@6150c3ec]" started-at="2023-10-04T16:02:22 IST" name="Verify_Tab" finished-at="2023-10-04T16:02:34 IST" duration-ms="12501" status="PASS">
+        <test-method signature="Verify_Tab()[pri:0, instance:Test.POMTab@6150c3ec]" started-at="2023-10-05T14:12:25 IST" name="Verify_Tab" finished-at="2023-10-05T14:12:25 IST" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Tab -->
-        <test-method is-config="true" signature="aftertezt()[pri:0, instance:Test.footer@6150c3ec]" started-at="2023-10-04T16:02:34 IST" name="aftertezt" finished-at="2023-10-04T16:02:34 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="aftertezt()[pri:0, instance:Test.POMTab@6150c3ec]" started-at="2023-10-05T14:12:25 IST" name="aftertezt" finished-at="2023-10-05T14:12:25 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertezt -->
-      </class> <!-- Test.footer -->
+      </class> <!-- Test.POMTab -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
