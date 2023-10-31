@@ -15,7 +15,7 @@ public footer_object(WebDriver driver) {
 	this.driver = driver;
 	PageFactory.initElements(driver, this);
 }
-
+//
 @FindBy(id="ackButton") WebElement ackButton;
 @FindBy(xpath = "//li[@class='nav-footer']//a[contains(text(), '" + key + "')]") public WebElement footer_element;
 @FindBy(xpath="//div[@class='row']//a[contains(text(), 'Learn More...')]") WebElement learn;
